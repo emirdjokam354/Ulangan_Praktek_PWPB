@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "276555874548",
+    "firebase_url": "https://ulanganpraktekpwpb.firebaseio.com",
+    "project_id": "ulanganpraktekpwpb",
+    "storage_bucket": "ulanganpraktekpwpb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276555874548:android:e123f9640ac36c9b97dea1",
+        "android_client_info": {
+          "package_name": "com.example.ulangan_praktek_pwpb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276555874548-h2n24ffncsm881ck83inh3ru6fl7nfk3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ulangan_praktek_pwpb",
+            "certificate_hash": "e36f274d6ea06d418fdc341e5a2e41c2e4613be4"
+          }
+        },
+        {
+          "client_id": "276555874548-kmlhth30i9hjot4qqs9djte70p8f7lru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAATeaQsUREpqizcota1BTkjI1cNNcsjcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276555874548-kmlhth30i9hjot4qqs9djte70p8f7lru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
